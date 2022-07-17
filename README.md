@@ -18,7 +18,7 @@ All the dependencies and required libraries are included in the file <code>requi
 ## 🚀&nbsp; Installation
 1. Clone the repo
 ```
-$ git clone https://github.com/kaurramanpreet/Myntra_Comp.git
+$ git clone https://github.com/YASHMANMODE2502/COVID-19-Rule-Checker
 ```
 
 2. Change your directory to the cloned repo and create a Python virtual environment named 'test'
