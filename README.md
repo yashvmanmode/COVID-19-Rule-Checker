@@ -1,8 +1,4 @@
-<img src="https://user-images.githubusercontent.com/29287671/97078166-ba3bde80-1607-11eb-9a4e-7d5e223e7d58.png" width="140">
 
-# Myntra HackerRamp
-## :bulb: Problem Statement
-```
 An effective way to implement social distancing for On-Site Service employees working at places like warehouses, malls etc
 where the employees cannot be shifted to work from home.
 ```
